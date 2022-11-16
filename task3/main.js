@@ -8,7 +8,7 @@ let i = 0;
 
 while (i < a.length) {
 
-  box += a[i]
+  box += a[i]   
   box += b
 
 
